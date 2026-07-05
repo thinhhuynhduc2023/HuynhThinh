@@ -1,0 +1,5 @@
+BAO CAO TINH UNG SUAT
+--------------------
+Truc A: D=25mm, Ung suat=203.72MPa -> KHONG DAT
+Truc B: D=40mm, Ung suat=63.66MPa -> AN TOAN
+Truc C: D=30mm, Ung suat=212.21MPa -> KHONG DAT
